@@ -28,3 +28,9 @@ Usar Linha '---' ou '***'
 * Item 2
 * Item 3
 * Item 4
+
+### Lista de tarefas
+
+- [] Tarefa 1
+- [] Tarefa 2
+- [] Tarefa 3
