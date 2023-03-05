@@ -31,6 +31,32 @@ Usar Linha '---' ou '***'
 
 ### Lista de tarefas
 
-- [] Tarefa 1
-- [] Tarefa 2
-- [] Tarefa 3
+- [ ] Tarefa 1
+- [ ] Tarefa 2
+- [ ] Tarefa 3
+
+## Link
+[Meu Git-Hub](https://github.com/helio2323)
+
+## Tabelas
+
+Num | Nome | Nota
+---|---|---
+1 | Gustavo | 8,5
+2 | Jose | 9
+
+# Comandos
+
+Não entendo direito para que serve o comando `document.getElementById()` da linguagem JavaScript
+
+Código simples em Python
+
+```
+def printar_desnecessario(msg):
+    print(msg)
+
+minha_mensagem = printar_desnecessario('Olá Mundo')
+```
+# Emojis
+
+Olá, 🤙 
